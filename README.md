@@ -34,22 +34,22 @@ It also includes:
 
 Users can report different civic problems such as:
 
-🚧 Road Damage
-🗑️ Garbage Collection
-💧 Water Leakage
-💡 Street Light Problem
-⚡ Electricity Issue
+🚧 Road Damage,
+🗑️ Garbage Collection,
+💧 Water Leakage,
+💡 Street Light Problem,
+⚡ Electricity Issue,
 🚰 Drainage Blockage
 
 ---
 
 ⭐ Why Choose Our Platform
 
-✔️ Easy Complaint Submission
-✔️ Photo Upload Support
-✔️ Real-Time Tracking
-✔️ Fast Resolution Process
-✔️ User-Friendly Interface
+✔️ Easy Complaint Submission,
+📸 Photo Upload Support,
+📍 Real-Time Tracking,
+📝 Fast Resolution Process,
+👏 User-Friendly Interface
 
 ---
 
@@ -82,11 +82,11 @@ The Services page includes:
 
 🌟 Platform Features
 
-✅ Easy Online Complaint Submission
-✅ Photo Upload Support
-✅ Real-Time Status Tracking
-✅ Transparent Resolution Process
-✅ Admin Monitoring Dashboard
+✅ Easy Online Complaint Submission,
+📸 Photo Upload Support,
+📍 Real-Time Status Tracking,
+📝 Transparent Resolution Process,
+🤦‍♀️ Admin Monitoring Dashboard
 
 A Take Action button is available for direct complaint submission.
 
@@ -116,12 +116,12 @@ Users can register using:
 
 After login, users can submit complaints using a form that includes:
 
-🧑 Full Name
-📱 Mobile Number
-📰 Issue Title
-📂 Select Issue Category
-📝 Description
-📍 Location
+🧑 Full Name,
+📱 Mobile Number,
+📰 Issue Title,
+📂 Select Issue Category,
+📝 Description,
+📍 Location,
 📸 Upload Image
 
 ---
