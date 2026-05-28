@@ -21,16 +21,16 @@ All notable changes to this project will be documented in this file.
 
 🛠️ Features Included
 
-✅ Total Complaints Counter
-✅ Pending Complaints Status
-✅ In Progress Complaints Status
-✅ Resolved Complaints Status
+✅ Total Complaints Counter,
+✅ Pending Complaints Status,
+✅ In Progress Complaints Status,
+✅ Resolved Complaints Status,
 
-✅ Road Damage Reporting
-✅ Garbage Collection Complaints
-✅ Water Leakage Complaints
-✅ Street Light Issue Reporting
-✅ Electricity Issue Reporting
+✅ Road Damage Reporting,
+✅ Garbage Collection Complaints,
+✅ Water Leakage Complaints,
+✅ Street Light Issue Reporting,
+✅ Electricity Issue Reporting,
 ✅ Drainage Blockage Reporting
 
 ---
